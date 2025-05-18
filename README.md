@@ -7,7 +7,7 @@
 1. Histogram of CRBP Raw vs. Yolov8 classification metrics
 ![Sample Result](images/metrics_comparison.png)
 
-2. Loss Curves comparison over train and validation for (a) Raw vs. (b) Yolov8
+2. Loss Curves comparison over train and validation for (a) CRBP-Raw vs. (b) CRBP-Yolov8
 ![Sample Result](images/loss_curves_side_by_side.png)
 
 3. Confusion Metrics, Precision-Recall Curve, and AUC-ROC Curve comparison over (a) CRBP-Raw vs. (b) CRBP-Yolov8
