@@ -10,5 +10,5 @@
 3. Loss Curves comparison over train and validation
 ![Sample Result](images/loss_curves_side_by_side.png)
 
-4. Confusion Metrics, PR Curve, and AUC Curve comparison over Raw vs. Yolov8
+4. Confusion Metrics, Precision-Recall Curve, and AUC-ROC Curve comparison over Raw vs. Yolov8
 ![Sample Result](images/combined_metrics_vertical.png)
