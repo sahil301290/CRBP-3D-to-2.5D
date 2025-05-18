@@ -2,6 +2,8 @@
 
 **Supplementary:**
 
+**EfficientNetb0 model has been trained and tested with 60:20:20 split (seed value 42)**
+
 1. Histogram of CRBP Raw vs. Yolov8 classification metrics
 ![Sample Result](images/metrics_comparison.png)
 
