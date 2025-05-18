@@ -1,6 +1,6 @@
 # CRBP: A Benchmark Dataset of Color-Rendered 3D-to-2.5D Facial Projections
 
-Supplementary:
+##Supplementary:
 1. Histogram of CRBP Raw vs. Yolov8 classification metrics
 ![Sample Result](images/metrics_comparison.png)
 
